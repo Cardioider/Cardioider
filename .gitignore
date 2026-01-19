@@ -4,3 +4,6 @@ draft/
 .draft
 draft
 
+venv/
+.venv/
+.venv
