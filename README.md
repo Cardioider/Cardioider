@@ -61,9 +61,7 @@
   </a>
 </p>
 
-
 <hr/>
-
 
 <div align="center">
 <i>"All great deeds and all great thoughts have a ridiculous beginning."</i>
