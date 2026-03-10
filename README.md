@@ -5,25 +5,19 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff79c6&background=00000000&center=true&vCenter=true&width=600&lines=Strive+to+make+your+spirit+bright%2C;Be+the+star+in+your+own+night." alt="My Developer Journey" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/ChaseanChen/ChaseanChen/output/ascii_art.svg" alt="Random ASCII Art" width="100%" />
 </div>
-
 <br/>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker,c,html,css,js,python,mastodon,blender&perline=8&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,obsidian,discord,twitter,instagram,gmail&perline=8&theme=dark" />
 </div>
-
 <div align="center">
   <h3> A passionate developer enthusiastic about Code Learning and Open Source. </h3>
 </div>
-
 <div align="center">
   <a href="https://github.com/ChaseanChen">
     <img src="https://raw.githubusercontent.com/ChaseanChen/ChaseanChen/output/activity_graph_framed.svg?v=101" alt="My Activity Graph" width="100%" />
