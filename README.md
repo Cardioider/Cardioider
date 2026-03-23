@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-if you have anything of questions, you can push issues in the repo.
+if you have anything of questions such as couldn't connect me, you can push issues in the repo.
 </p>
 
 <hr/>
