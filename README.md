@@ -66,7 +66,9 @@
   </a>
 </p>
 
+<p align="center">
 if you have anything of questions, you can push issues in the repo.
+</p>
 
 <hr/>
 
