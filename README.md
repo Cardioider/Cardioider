@@ -66,6 +66,8 @@
   </a>
 </p>
 
+if you have anything of questions, you can push issues in the repo.
+
 <hr/>
 
 <div align="center">
