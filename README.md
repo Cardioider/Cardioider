@@ -58,13 +58,23 @@
 
 <h2 align="center"> Connect with me </h2>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/ChaseanChen" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-44475a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:Oracipher@duck.com" target="_blank">
     <img src="https://img.shields.io/badge/DuckGo-bd93f9?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="Duck"/>
+  </a>
+</p> -->
+
+<p align="center">
+  <a href="https://github.com/ChaseanChen" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-44475a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/iCloud-0071e3?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud"/>
   </a>
 </p>
 
