@@ -35,7 +35,7 @@
   
 </div>
 
-<h2 align="center"> GitHub Stats </h2>
+<!-- <h2 align="center"> GitHub Stats </h2> -->
 
 <!-- <div align="center">
   <img src="https://github-readme-stats-alpha-seven-49.vercel.app/api?username=ChaseanChen&show_icons=true&bg_color=44475a&title_color=ff79c6&text_color=f8f8f2&icon_color=bd93f9&count_private=true&v=1&hide_border=true" height="165" alt="stats" />
@@ -57,16 +57,6 @@
 <br/>
 
 <h2 align="center"> Connect with me </h2>
-
-<!-- <p align="center">
-  <a href="https://github.com/ChaseanChen" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-44475a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:Oracipher@duck.com" target="_blank">
-    <img src="https://img.shields.io/badge/DuckGo-bd93f9?style=for-the-badge&logo=duckduckgo&logoColor=white" alt="Duck"/>
-  </a>
-</p> -->
 
 <p align="center">
   <a href="https://github.com/ChaseanChen" target="_blank">
